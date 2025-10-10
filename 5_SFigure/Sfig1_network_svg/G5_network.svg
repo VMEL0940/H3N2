@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='504.00pt' height='360.00pt' viewBox='0 0 504.00 360.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1MDQuMDB8MC4wMHwzNjAuMDA='>
+    <rect x='0.00' y='0.00' width='504.00' height='360.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHwzNjAuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpNTkuMDR8NDczLjc2fDU5LjA0fDI4Ni41Ng=='>
+    <rect x='59.04' y='59.04' width='414.72' height='227.52' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNTkuMDR8NDczLjc2fDU5LjA0fDI4Ni41Ng==)'>
+<line x1='310.43' y1='222.56' x2='312.36' y2='236.85' style='stroke-width: 3.32; stroke: #F5B041;' />
+<line x1='294.87' y1='208.18' x2='276.31' y2='207.15' style='stroke-width: 1.58; stroke: #ABB2B9;' />
+<line x1='303.76' y1='241.54' x2='273.04' y2='215.31' style='stroke-width: 2.45; stroke: #ABB2B9;' />
+<line x1='256.26' y1='194.19' x2='227.86' y2='139.50' style='stroke-width: 2.05; stroke: #ABB2B9;' />
+<line x1='211.75' y1='117.66' x2='184.58' y2='90.86' style='stroke-width: 2.55; stroke: #ABB2B9;' />
+<line x1='303.08' y1='221.53' x2='289.82' y2='251.81' style='stroke-width: 3.36; stroke: #F5B041;' />
+<line x1='301.75' y1='256.27' x2='296.76' y2='258.59' style='stroke-width: 3.32; stroke: #F5B041;' />
+<line x1='267.41' y1='219.25' x2='279.49' y2='251.53' style='stroke-width: 1.56; stroke: #ABB2B9;' />
+<line x1='320.19' y1='216.30' x2='346.39' y2='232.89' style='stroke-width: 2.43; stroke: #ABB2B9;' />
+<line x1='327.58' y1='247.34' x2='344.61' y2='243.37' style='stroke-width: 2.62; stroke: #ABB2B9;' />
+<line x1='302.99' y1='196.40' x2='276.16' y2='136.24' style='stroke-width: 1.54; stroke: #ABB2B9;' />
+<line x1='235.23' y1='126.30' x2='256.86' y2='124.70' style='stroke-width: 2.71; stroke: #ABB2B9;' />
+<circle cx='308.59' cy='208.95' r='13.74' style='stroke-width: 0.56; fill: #C780E8;' />
+<circle cx='314.20' cy='250.47' r='13.74' style='stroke-width: 0.56; fill: #9D94FF;' />
+<circle cx='262.60' cy='206.38' r='13.74' style='stroke-width: 0.56; fill: #59ADF6;' />
+<circle cx='221.52' cy='127.31' r='13.74' style='stroke-width: 0.56; fill: #08CAD1;' />
+<circle cx='174.81' cy='81.21' r='13.74' style='stroke-width: 0.56; fill: #42D6A4;' />
+<circle cx='284.30' cy='264.39' r='13.74' style='stroke-width: 0.56; fill: #F8F38D;' />
+<circle cx='357.99' cy='240.24' r='13.74' style='stroke-width: 0.56; fill: #FFB480;' />
+<circle cx='270.56' cy='123.69' r='13.74' style='stroke-width: 0.56; fill: #FF6961;' />
+</g>
+<g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHwzNjAuMDA=)'>
+<text x='308.59' y='213.26' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='22.67px' lengthAdjust='spacingAndGlyphs'>PB2</text>
+<text x='314.20' y='254.78' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='22.67px' lengthAdjust='spacingAndGlyphs'>PB1</text>
+<text x='262.60' y='210.68' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='15.11px' lengthAdjust='spacingAndGlyphs'>PA</text>
+<text x='221.52' y='131.61' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='16.67px' lengthAdjust='spacingAndGlyphs'>HA</text>
+<text x='174.81' y='85.50' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='16.67px' lengthAdjust='spacingAndGlyphs'>NP</text>
+<text x='284.30' y='268.69' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='16.67px' lengthAdjust='spacingAndGlyphs'>NA</text>
+<text x='357.99' y='244.54' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='10.00px' lengthAdjust='spacingAndGlyphs'>M</text>
+<text x='270.56' y='127.99' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='16.67px' lengthAdjust='spacingAndGlyphs'>NS</text>
+</g>
+</g>
+</svg>

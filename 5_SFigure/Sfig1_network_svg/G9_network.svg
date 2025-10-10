@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='504.00pt' height='360.00pt' viewBox='0 0 504.00 360.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1MDQuMDB8MC4wMHwzNjAuMDA='>
+    <rect x='0.00' y='0.00' width='504.00' height='360.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHwzNjAuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpNTkuMDR8NDczLjc2fDU5LjA0fDI4Ni41Ng=='>
+    <rect x='59.04' y='59.04' width='414.72' height='227.52' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNTkuMDR8NDczLjc2fDU5LjA0fDI4Ni41Ng==)'>
+<line x1='205.98' y1='93.54' x2='195.85' y2='114.15' style='stroke-width: 3.15; stroke: #F5B041;' />
+<line x1='225.53' y1='83.84' x2='256.90' y2='89.97' style='stroke-width: 2.25; stroke: #ABB2B9;' />
+<line x1='308.61' y1='125.57' x2='280.78' y2='101.58' style='stroke-width: 3.02; stroke: #F5B041;' />
+<line x1='202.45' y1='121.16' x2='257.71' y2='97.93' style='stroke-width: 1.58; stroke: #ABB2B9;' />
+<line x1='327.76' y1='145.14' x2='349.25' y2='171.16' style='stroke-width: 2.74; stroke: #ABB2B9;' />
+<line x1='219.78' y1='92.56' x2='243.90' y2='127.96' style='stroke-width: 2.09; stroke: #ABB2B9;' />
+<line x1='305.31' y1='135.51' x2='265.34' y2='138.34' style='stroke-width: 2.58; stroke: #ABB2B9;' />
+<line x1='203.24' y1='129.27' x2='238.19' y2='136.52' style='stroke-width: 1.85; stroke: #ABB2B9;' />
+<line x1='265.26' y1='105.35' x2='256.75' y2='126.56' style='stroke-width: 2.91; stroke: #F5B041;' />
+<circle cx='212.04' cy='81.21' r='13.74' style='stroke-width: 0.56; fill: #C780E8;' />
+<circle cx='276.14' cy='264.39' r='13.74' style='stroke-width: 0.56; fill: #9D94FF;' />
+<circle cx='174.81' cy='235.05' r='13.74' style='stroke-width: 0.56; fill: #59ADF6;' />
+<circle cx='319.01' cy='134.54' r='13.74' style='stroke-width: 0.56; fill: #08CAD1;' />
+<circle cx='189.79' cy='126.48' r='13.74' style='stroke-width: 0.56; fill: #42D6A4;' />
+<circle cx='270.38' cy='92.60' r='13.74' style='stroke-width: 0.56; fill: #F8F38D;' />
+<circle cx='357.99' cy='181.76' r='13.74' style='stroke-width: 0.56; fill: #FFB480;' />
+<circle cx='251.64' cy='139.31' r='13.74' style='stroke-width: 0.56; fill: #FF6961;' />
+</g>
+<g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHwzNjAuMDA=)'>
+<text x='212.04' y='85.52' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='22.67px' lengthAdjust='spacingAndGlyphs'>PB2</text>
+<text x='276.14' y='268.71' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='22.67px' lengthAdjust='spacingAndGlyphs'>PB1</text>
+<text x='174.81' y='239.35' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='15.11px' lengthAdjust='spacingAndGlyphs'>PA</text>
+<text x='319.01' y='138.84' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='16.67px' lengthAdjust='spacingAndGlyphs'>HA</text>
+<text x='189.79' y='130.78' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='16.67px' lengthAdjust='spacingAndGlyphs'>NP</text>
+<text x='270.38' y='96.90' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='16.67px' lengthAdjust='spacingAndGlyphs'>NA</text>
+<text x='357.99' y='186.06' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='10.00px' lengthAdjust='spacingAndGlyphs'>M</text>
+<text x='251.64' y='143.61' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='16.67px' lengthAdjust='spacingAndGlyphs'>NS</text>
+</g>
+</g>
+</svg>

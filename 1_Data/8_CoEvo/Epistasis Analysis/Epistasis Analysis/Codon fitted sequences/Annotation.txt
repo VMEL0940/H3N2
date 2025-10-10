@@ -1,0 +1,5 @@
+Codon fitted seqeuences
+
+#601 sequences each with stop codons
+#M, NS genes that undergo alternate splicing have been formed by combining M1 and M2 / NS1 and NS2 respectively
+#in name order- to concatenate
