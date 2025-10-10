@@ -7,7 +7,7 @@ We quantified **synonymous and nonsynonymous genetic distances** from vaccine st
 
 ---
 
-## [Bayesian Renaissance Counting (RNSC)]
+## Bayesian Renaissance Counting (RNSC)
 
 ![Figure 1: Bayesian Renaissance Counting (RNSC)](3_Images/githubFig1.jpg)
 
@@ -19,7 +19,7 @@ In the dominance prediction model, strains are visually outlined by their domina
 
 ---
 
-## [Training/Testing Datasets for Mixed-Effect Logistic Regression]
+## Training/Testing Datasets for Mixed-Effect Logistic Regression
 
 ![Figure 2: Mixed-Effect Logistic Regression Framework](3_Images/githubFig2.jpg)
 
@@ -30,7 +30,7 @@ Importantly, **adaptive mutations in the NA and NS segments**, which are likely 
 
 ---
 
-## [Training/Validation/Testing Datasets for Machine Learning Models]
+## Training/Validation/Testing Datasets for Machine Learning Models
 
 ![Figure 3: Machine Learning and Deep Learning Comparison](3_Images/githubFig3.jpg)
 
